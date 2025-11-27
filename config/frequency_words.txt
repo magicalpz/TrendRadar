@@ -1,17 +1,9 @@
 
-
-DeepSeek
-
 华为
 鸿蒙
 HarmonyOS
 
-大疆
-DJI
-
-字节
-bytedance
-张一鸣
+理想汽车
 
 特斯拉
 马斯克
@@ -35,8 +27,6 @@ claude
 Anthropic
 
 iphone
-ipad
-mac
 ios
 
 ai
@@ -44,5 +34,3 @@ ai
 人工智能
 
 自动驾驶
-
-机器人
